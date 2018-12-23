@@ -2,3 +2,10 @@ h1 {
   font-family: helvetica;
   font-weight: 200;
 }
+
+body, html {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: black;
+}
