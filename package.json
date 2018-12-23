@@ -3,11 +3,10 @@
   "productName": "Moana",
   "version": "0.7.0",
   "description": "Minimal and modern react+electron+webpack boilerplate",
-  "author": "Phillip Barbiero",
-  "homepage": "https://github.com/pbarbiero/basic-electron-react-boilerplate",
+  "author": "Charlie Hall",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pbarbiero/basic-electron-react-boilerplate.git"
+    "url": "https://github.com/charlie9830/moana.git"
   },
   "license": "MIT",
   "main": "main.js",
